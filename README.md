@@ -39,5 +39,3 @@ com testes unitário. Começar pelo controler por exemplo serve para fornecer um
 externo à funcionalidade em si.
 Começamos a desenhar a funcionalidade de baixo para cima, pela camada mais baixo nível
 até as conexões com meios externos.
-
-"type": "module",
